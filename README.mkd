@@ -2,6 +2,8 @@
 
 Yet another Haml to HTML converter written in PHP.
 
+**NOTE**: The ownership of this repository has been moved to [https://github.com/hamlphp/HamlPHP](https://github.com/hamlphp/HamlPHP).
+
 ## Requirements
 
 PHP 5.2 or newer.
